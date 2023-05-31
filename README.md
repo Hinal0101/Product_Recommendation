@@ -33,6 +33,8 @@ Then calculate the multiplier for weighting the EMA, known as the "smoothing fac
 For a 20-day moving average, the multiplier would be [2/(20+1)]= 0.0952. The smoothing factor is combined with the previous EMA to arrive at the current value. The EMA thus gives a higher weighting to recent prices, while the SMA assigns an equal weighting to all values.
  
 Visualisation of data with respect to time vs key feature
+(USING POWER BI)
+
 1.	Overview of visualisation
 ![image](https://github.com/Hinal0101/Product_Recommendation/assets/89678274/a4efcdad-2960-4178-b27a-98bfbd34bd1f)
 
@@ -45,7 +47,7 @@ Visualisation of data with respect to time vs key feature
 4.	Unit price and quantity in October 2010
 ![image](https://github.com/Hinal0101/Product_Recommendation/assets/89678274/e7feba15-9c79-440e-9ece-5a4dc6fd0a76)
 
-5.	Time series forecasting
+5.	Time series forecasting 
 a. 
 ![image](https://github.com/Hinal0101/Product_Recommendation/assets/89678274/9570baca-bcb6-4bee-ab80-66f94b639df0)
 
